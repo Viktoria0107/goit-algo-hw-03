@@ -9,6 +9,3 @@ def get_days_from_today(date):
     except ValueError:
         raise ValueError("Format is expected YYYY.MM.DD")
 
-# print(get_days_from_today("2025.04.21"))        
-# print(get_days_from_today("2025.03.27"))  
-print(get_days_from_today("20.02.2025"))  

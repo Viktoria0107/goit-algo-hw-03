@@ -7,4 +7,3 @@ def get_numbers_ticket(min, max, quantity):
         return list_lottery_numbers
     
 
-print (get_numbers_ticket(2, 50, 5))
