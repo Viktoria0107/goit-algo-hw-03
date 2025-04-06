@@ -9,5 +9,5 @@ def get_days_from_today(date):
     except ValueError:
         return ValueError("Format is expected YYYY-MM-DD")
     
-print(get_days_from_today("2025-04-01"))    
+   
 
